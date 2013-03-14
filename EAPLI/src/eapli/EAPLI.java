@@ -16,4 +16,11 @@ public class EAPLI {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    
+    public int testeGIT(String s) {
+        
+        
+        
+        return 2;
+    }
 }
