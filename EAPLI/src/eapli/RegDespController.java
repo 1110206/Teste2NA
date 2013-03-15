@@ -1,13 +1,9 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package eapli;
 
-/**
- *
- * @author SofiaLoboLima
- */
+
 public class RegDespController {
+    
+    void registaDespesa(float valor, String descricao){}
     
 }
